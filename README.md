@@ -1,3 +1,3 @@
-## Next.js application that fetches users and displays details of each. 
+## Next.js application that fetches users data and displays it. 
 
 Build with Nextjs and CSS. 
